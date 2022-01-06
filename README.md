@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [healthkart.com clone](https://github.com/Dhruvkagrawal/HealtKart.com-Clone)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **React**
 
