@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit1024" alt="arpit1024" /></a> </p>
 
-- 🔭 I’m currently working on [healthkart.com clone](https://github.com/Dhruvkagrawal/HealtKart.com-Clone)
+- 🔭 I’m currently working on Credflow
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Dev Ops**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React**, **NodeJS**, **PostgresSQL** **MongoDB**
 
 - 📫 How to reach me **arpitshrivastava764@gmail.com**
 
