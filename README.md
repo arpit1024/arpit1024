@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit1024" alt="arpit1024" /></a> </p>
 
-- 🔭 I’m currently working on Credflow
+- 🔭 I’m currently working in Credflow
 
 - 🌱 I’m currently learning **Dev Ops**
 
